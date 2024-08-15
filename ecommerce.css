@@ -63,7 +63,7 @@ nav a {
     width: 100%;
     height: 900px;
     margin-left: 0%;
-    background-image: url('.anima/Captura\ de\ tela\ 2024-07-13\ 003401.png'); /* Substitua pelo caminho da sua imagem */
+    background-image: url('Captura\ de\ tela\ 2024-07-13\ 003401.png'); /* Substitua pelo caminho da sua imagem */
     background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
     background-position: center; /* Centraliza a imagem no elemento */
 }
@@ -352,7 +352,7 @@ h8::after {
 .glass-cart {
   width: 60%;
   height: 500px;
-  background-image: url('.anima/download\ \(99\).jpeg');
+  background-image: url('download\ \(99\).jpeg');
   display: flex;
   margin-left: 20%;
   left: 0px;
@@ -466,7 +466,7 @@ footer {
   width: 80%;
   margin: auto;
   align-items: center;
-  background-image: url('.anima/download\ -\ 2024-08-11T000540.704.jpeg');
+  background-image: url('download\ -\ 2024-08-11T000540.704.jpeg');
   margin-left: auto; 
   margin-right: auto;
   width: 100%;
@@ -625,7 +625,7 @@ h8{
   .glass-cart {
     width: 100%;
     height: 500px;
-    background-image: url('.anima/download\ \(99\).jpeg');
+    background-image: url('download\ \(99\).jpeg');
     display: flex;
     margin-right: 40%;
     left: 0px;

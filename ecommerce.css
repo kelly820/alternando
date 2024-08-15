@@ -594,7 +594,7 @@ h4{
 
 .grid-container3 {
   display: grid;
-  margin-top: 150%;
+  margin-top: 250%;
   grid-template-columns: repeat(1,1fr); 
   gap: 20px;
   margin-right: 40%;

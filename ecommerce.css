@@ -283,7 +283,7 @@ h4::after {
   display: flex;
   color: #000000;
   justify-content: center; 
-  margin-top: -85%;
+  margin-top: -75%;
   top:0px;
   padding: 20px; 
 }

@@ -55,7 +55,7 @@ h1{
 .conteiner__bg {
     position: relative; /* Garante que os elementos internos possam ser posicionados relativamente */
     width: 35%; /* Ocupa toda a largura disponível */
-    height: 800px; /* Altura igual à altura da viewport */
+    height: 770px; /* Altura igual à altura da viewport */
     background-image: url('Stormtrooper\ 🌌.jpeg'); /* Substitua pelo caminho correto da sua imagem */
     background-size: cover; 
     background-position: center; 
@@ -64,7 +64,7 @@ h1{
     margin-left: 20%;
     flex-direction: column; 
     justify-content: center; 
-    margin-top:-5%;
+    margin-top:-10%;
     align-items: center; 
     color: white; 
     text-align: center; 

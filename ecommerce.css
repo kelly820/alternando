@@ -676,10 +676,8 @@ h8{
     
   }
    a {
-    font-size: 8px;
-    display:flexbox;
-    justify-content: space-between;
-    align-items: flex-start;
+   
+    display:none;
 
 
 

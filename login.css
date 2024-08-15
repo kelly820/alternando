@@ -64,7 +64,6 @@ h1{
     margin-left: 20%;
     flex-direction: column; 
     justify-content: center; 
-    margin-top:-10%;
     align-items: center; 
     color: white; 
     text-align: center; 
@@ -165,7 +164,7 @@ input:focus {
   background-image: linear-gradient(#ff8a00, #e52e71);
   color: white;
   border-radius: 28px;
-  margin-top:-8%;
+   margin-top: -53.3%;
   margin-left: 50%;
   align-items: left;
   margin-right: 50%;

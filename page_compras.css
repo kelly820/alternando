@@ -55,7 +55,7 @@ width: 620px;
 height: 740px;
 margin-top: -49%;
 display: grid;
-background-image:url('Boba\ Fett\ \(1\).jpeg') ;
+background-image:url('Boba Fett(1).jpeg') ;
 grid-template-columns:1fr ;
 justify-items:left;
 border-radius: 28px;
@@ -110,7 +110,7 @@ border-color:rgb(123, 8, 8);
 }
 
 .img__bg{
-background-image: url(download\ -\ 2024-07-23T222403.961.jpeg);
+background-image: url(download - 2024-07-23T222403.961.jpeg);
 margin-right: 80%;
 height: 720px;
 margin-left: 10%;
@@ -136,7 +136,7 @@ padding:10px;
     display: grid;
     width: 1070px;
     height: 920px;
-    background-image: url('download\ -\ 2024-07-24T004158.061.jpeg');
+    background-image: url('download-2024-07-24T004158.061.jpeg');
     background-size: cover;
     background-position: center; 
     margin-top: 30px; 
@@ -258,7 +258,7 @@ border-radius: 28px;
 margin-left:25% ;
 height: 500px;
 margin-top: 25%;
-background-image: url('download\ -\ 2024-07-25T225902.361.jpeg');
+background-image: url('download- 2024-07-25T225902.361.jpeg');
 background-size: 100%;
 }
 

@@ -46,7 +46,7 @@
     height: 700px;
     margin-left: 10%;
     border-radius:18px;
-    background-image: url('.anima/Captura\ de\ tela\ 2024-07-13\ 005634.png'); /* Substitua pelo caminho da sua imagem */
+    background-image: url('Captura\ de\ tela\ 2024-07-13\ 005634.png'); /* Substitua pelo caminho da sua imagem */
     background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
     background-position: center; /* Centraliza a imagem no elemento */
 }
@@ -127,7 +127,7 @@ height: 850px;
 display: grid;
 margin-left: 61%;
 justify-content: right;
-background: url('.anima/c37e7fd5-214e-48ec-90c9-3ef7bf37414e.jpeg') center center no-repeat;
+background: url('c37e7fd5-214e-48ec-90c9-3ef7bf37414e.jpeg') center center no-repeat;
 color: #fff;
 border-radius: 5%;
 display:grid;
@@ -449,7 +449,7 @@ h1{
   
 }
 .img-bg{
-  background-image: url('.anima/download\ -\ 2024-08-11T011514.986.jpeg');
+  background-image: url('download\ -\ 2024-08-11T011514.986.jpeg');
   width:90%;
   display: block;
   height: 700px;
